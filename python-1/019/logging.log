@@ -1,0 +1,6 @@
+Tue, 28 Apr 2020 11:37:01 logging日志.py[line:9] DEBUG debug信息
+Tue, 28 Apr 2020 11:37:01 logging日志.py[line:10] INFO 正常输出信息
+Tue, 28 Apr 2020 11:37:01 logging日志.py[line:11] WARNING 警告信息
+Tue, 28 Apr 2020 11:37:01 logging日志.py[line:12] ERROR 错误信息
+Tue, 28 Apr 2020 11:37:01 logging日志.py[line:13] CRITICAL 严重错误信息
+Tue, 28 Apr 2020 11:37:04 logging日志.py[line:19] ERROR invalid literal for int() with base 10: 'aa'
